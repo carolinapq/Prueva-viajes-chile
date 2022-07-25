@@ -1,0 +1,111 @@
+.card-header{
+    text-align: center;
+    color: white;
+    background-color: aqua;
+}
+
+.row{
+    background-color: black;
+}
+
+
+.card-body1, .card-text{
+    display: inline-block;
+}
+
+.card-footer-fa{
+    text-align: center;
+    color: white;
+    background-color: aqua;
+}
+
+.card-text{
+    font-family: "montserrat";
+    background-color: black;
+    color: white;
+    }
+
+.card-title{
+    font-family: "open sans";
+    color: white;
+    text-align: center;
+    margin-top: 10pt;
+}
+
+.text-center{
+    padding-top: 15pt;
+    padding-bottom: 10pt;
+    font-family: "open sans";
+    background-color: black;
+    color: white;
+}
+
+.bg-dark{
+background-color: aqua!important;
+width: auto;
+}
+
+.card-body2{
+        width: auto;
+        margin: 0 auto;
+}
+
+body{
+    background-color: black;
+}
+
+.card-body2{
+background-color: #3397c5;
+}
+.card-text2{
+    background-color: #3397c5;
+    color: white;
+    margin-top: 10pt;
+    margin-bottom: 5pt;
+    margin-left: 14pt;
+    margin-right: 2pt;
+    font-family: "montserrat";
+}
+
+.card-form{
+    align-items: center;
+    color: black;
+}
+
+.form-text{
+    font-family: "montserrat";
+}
+
+div.cardw-75{
+    margin-top: 10pt;
+    margin-left: 15pt;
+    margin-bottom: 10pt;
+    margin-right: 15pt;
+}
+
+.card-footer{
+    text-align: center;
+    background-color: #3397c5;
+}
+
+h5{
+    text-align: left;
+    margin: 1pt;
+    font-family: "montserrat", bold;
+    color: white;
+}
+
+i.fab{
+    color: white;
+}
+
+#contacto{
+    text-align: right;
+}
+
+div.card-form{
+    margin-top: 10pt;
+    margin-left: 15pt;
+    margin-bottom: 10pt;
+    margin-right: 15pt;
+}
